@@ -6,3 +6,5 @@ p cohort[:name]
 cohort.save
 
 p Cohort.find(1)[:name] == 'Best Cohort Ever'
+
+#testing testing
